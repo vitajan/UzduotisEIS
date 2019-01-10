@@ -17,10 +17,16 @@ https://www.lb.lt/lt/kasdien-skelbiami-euro-ir-uzsienio-valiutu-santykiai-skelbi
 </ul>
 
 <h2>Įdiegimas</h2>
-UzduotisEIS.jar failas - Java programa paleidžiama komandinėje eilutėje.
+Java programa paleidžiama komandinėje eilutėje, pavyzdžiui naudojant komandą
+```
+java -jar UzduotisEIS.jar
+```
 
 <h2>Naudojimas</h2>
-Paleidus programą suvedame valiutos, kurios informaciją norime pamatyti, kodą.
+Paleidus programą sekti terminale esančius nurodymus: 
+
+Suvedame valiutos, kurios informaciją norime pamatyti, kodą.
+
 <ul>
   <li>Norint pamatyti <b>vienos dienos</b> informaciją: 
   </br>Spausti "1" -> "Enter" -> suvesti datą -> "Enter" </li>
