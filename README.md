@@ -36,9 +36,7 @@ Negalimas ankstesnių nei 2014 m. rugsėjo 30 d datų įvedimas.
  <ul><li>Data - ISO 8601 formatas, pvz. 2015-01-02 </li>
   <li>Valiutos kodas - ISO 4217 formatas, pvz. USD</li></ul>
   
-  
- Išeities kodas -  UzduotisEIS/src/com/company/Main.java
- 
- Programa - UzduotisEIS/UzduotisEIS.jar
- 
- Instrukcija - UzduotisEIS/README.md
+   <h4>Failai</h4>
+<span>Išeities kodas:<a href="https://github.com/vitajan/UzduotisEIS/blob/master/src/com/company/Main.java">UzduotisEIS/src/com/company/Main.java</a></span></br>
+<span>Programa:<a href="https://github.com/vitajan/UzduotisEIS/blob/master/UzduotisEIS.jar">UzduotisEIS/src/com/company/Main.java</a></span></br>
+<span>Instrukcija:<a href="https://github.com/vitajan/UzduotisEIS/README.md">UzduotisEIS/README.md</a></span>
