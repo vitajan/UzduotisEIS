@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="UzduotisEIS:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/UzduotisEIS_jar</output-path>
+    <root id="archive" name="UzduotisEIS.jar">
+      <element id="module-output" name="UzduotisEIS" />
+    </root>
+  </artifact>
+</component>
