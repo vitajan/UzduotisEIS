@@ -37,6 +37,6 @@ Negalimas ankstesnių nei 2014 m. rugsėjo 30 d datų įvedimas.
   <li>Valiutos kodas - ISO 4217 formatas, pvz. USD</li></ul>
   
    <h4>Failai</h4>
-<span>Išeities kodas:<a href="https://github.com/vitajan/UzduotisEIS/blob/master/src/com/company/Main.java">UzduotisEIS/src/com/company/Main.java</a></span></br>
-<span>Programa:<a href="https://github.com/vitajan/UzduotisEIS/blob/master/UzduotisEIS.jar">UzduotisEIS/src/com/company/Main.java</a></span></br>
-<span>Instrukcija:<a href="https://github.com/vitajan/UzduotisEIS/README.md">UzduotisEIS/README.md</a></span>
+<span>Išeities kodas - <a href="https://github.com/vitajan/UzduotisEIS/blob/master/src/com/company/Main.java">UzduotisEIS/src/com/company/Main.java</a></span></br>
+<span>Programa - <a href="https://github.com/vitajan/UzduotisEIS/blob/master/UzduotisEIS.jar">UzduotisEIS/UzduotisEIS.jar</a></span></br>
+<span>Instrukcija - <a href="https://github.com/vitajan/UzduotisEIS/README.md">UzduotisEIS/README.md</a></span>
