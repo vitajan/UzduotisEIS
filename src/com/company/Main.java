@@ -33,10 +33,9 @@ public class Main {
                 ccy = sc.nextLine().toUpperCase();
             } while (!isCurrencyValid(ccy));
 
-            System.out.println("\nPasirinkite:");
-            System.out.println("1 - ivesti data ");
-            System.out.println("2 - ivesti datu perioda ");
-            System.out.println("Datos formatas yyyy-mm-dd ");
+            System.out.println("\nPasirinkite ka norite ivesti:");
+            System.out.println("1 - data ");
+            System.out.println("2 - datu perioda ");
             try {
                 int op = sc.nextInt();
                 sc.nextLine();
@@ -44,6 +43,7 @@ public class Main {
                     case 1:
                         do {
                             System.out.println("\nIveskite data: ");
+                            System.out.println("(Datos formatas yyyy-mm-dd)");
                             dt = sc.nextLine();
                         } while (!isDateValid(dt));
                         getFxRatesForCurrency(ccy, dt, dt);
@@ -51,6 +51,7 @@ public class Main {
                     case 2:
                         do {
                             System.out.println("\nIveskite data NUO: ");
+                            System.out.println("(Datos formatas yyyy-mm-dd) ");
                             dtFrom = sc.nextLine();
                         } while (!isDateValid(dtFrom));
                         do {
@@ -65,10 +66,10 @@ public class Main {
                 }
             } catch (InputMismatchException e) {
                 System.out.println("Tokio pasirinkimo nera.\n");
+                sc.nextLine();
             }
             System.out.println("q - baigti");
             System.out.println("Enter - kartoti");
-            sc.nextLine();
         } while (!sc.nextLine().equals("q"));
     }
 
